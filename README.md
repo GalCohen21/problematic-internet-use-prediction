@@ -7,7 +7,7 @@ The goal of the project was to predict the severity of problematic internet use 
 ## Repository Contents
 
 - `train_pipeline.py` - final machine learning pipeline used for the project.
-- `report.pdf` - full project report, including the problem description, methodology, experiments, results, and lessons learned.
+- `Workshop Report.pdf` - full project report, including the problem description, methodology, experiments, results, and lessons learned.
 
 ## Notes
 
